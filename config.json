@@ -1,0 +1,9 @@
+{
+		"db": {
+				"host": "127.0.0.1",
+				"user": "weihelp_db_user",
+				"database": "wehelp",
+				"port": 5432,
+				"password": "pass@2019"
+		}
+}
